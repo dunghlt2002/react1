@@ -1,0 +1,40 @@
+[
+
+    {
+    "id": 1,
+    "name": "Tri Dung Huynh",
+    "tel": "123423423423",
+    "permission": 1
+    },
+    {
+    "id": 2,
+    "name": "Tri Huynh",
+    "tel": "223423423423",
+    "permission": 2
+    },
+    {
+    "id": 3,
+    "name": "Dana Le",
+    "tel": "323423423423",
+    "permission": 3
+    },
+    {
+    "id": 4,
+    "name": "Tri Dung Huynh",
+    "tel": "423423423423",
+    "permission": 1
+    },
+    {
+    "id": 5,
+    "name": "Pam Allision",
+    "tel": "523423423423",
+    "permission": 2
+    },
+    {
+    "id": 6,
+    "name": "Michael Le",
+    "tel": "623423423423",
+    "permission": 3
+    }
+
+]
